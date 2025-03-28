@@ -1,0 +1,6 @@
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/ProjectApplication.java
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/model/Customer.java
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/repository/CustomerRepository.java
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/rest/CustomerRest.java
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/service/CustomerService.java
+/workspaces/KarlaMV/src/main/java/pe/edu/vallegrande/project/service/impl/CustomerServiceImpl.java
